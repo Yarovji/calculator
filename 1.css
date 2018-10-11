@@ -1,0 +1,13 @@
+#oll {
+	width: 320px;
+	height: 400px;
+	background-color: grey;
+}
+
+#tablo {
+	width: 250px;
+	height: 30px;
+	background-color: white;
+	padding: 25px;
+	border: 10px solid silver;
+}
