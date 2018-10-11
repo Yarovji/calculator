@@ -16,5 +16,6 @@ var dill = $('#dill');
 var dor = $('#dor');
 
 $('button').on('click', function() {
-console.log(button.value);
+$('#tablo').text($(this).attr('value'));
 });
+
