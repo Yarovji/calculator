@@ -1,13 +1,47 @@
-#oll {
-	width: 320px;
-	height: 400px;
-	background-color: grey;
+* {
+	font-size: 30px;
 }
 
-#tablo {
-	width: 250px;
-	height: 30px;
-	background-color: white;
-	padding: 25px;
-	border: 10px solid silver;
+body {
+	background-color: #B8860B;
+}
+
+h1 {
+	font-size: 70px;
+	color: white;
+	text-align: center;
+}
+
+hr {
+	height: 10px;
+	background-color: black;
+}
+
+table {
+	width: 258px;
+	height: 328px;
+}
+
+#display {
+	width: 253px;
+	height: 60px;
+	border: 4px solid #B8860B;
+	border-radius: 8px;
+	text-align: right;
+}
+
+.calc_button {
+	width: 60px;
+	height: 60px;
+	border-radius: 8px;
+}
+
+.calc_button_big {
+	width: 126px;
+	height: 60px;
+	border-radius: 8px;
+}
+
+td {
+	border: 1px solid #B8860B;
 }
